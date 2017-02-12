@@ -11,3 +11,5 @@ The data are provided in three separate data files given at the end of the page.
 
 The goal of this case study: 
 You are required to develop predictive models using each of the 4 models namely K-NN, Naive Bayes, Logistic Regression and SVM.
+
+Note: Wherever required, set the VIF threshold to 2.  
